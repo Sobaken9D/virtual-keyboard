@@ -1,0 +1,33 @@
+body {
+    font-family: 'Dongle', sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.header {
+  text-align: center;
+}
+
+.keyboard {
+  width: 900px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+.key {
+    background: none;
+    border: 1px solid black;
+    width: 55px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

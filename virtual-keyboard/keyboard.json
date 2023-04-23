@@ -1,0 +1,436 @@
+[
+    {
+        "code": "Backquote",
+        "charEN": "`",
+        "charRU": "ё",
+        "shiftRU": "Ё",
+        "shiftEN": "~"
+    },
+    {
+        "code": "Digit1",
+        "charEN": "1",
+        "charRU": "1",
+        "shiftRU": "!",
+        "shiftEN": "!"
+    },
+    {
+        "code": "Digit2",
+        "charEN": "2",
+        "charRU": "2",
+        "shiftRU": "\"",
+        "shiftEN": "@"
+    },
+    {
+        "code": "Digit3",
+        "charEN": "3",
+        "charRU": "3",
+        "shiftRU": "№",
+        "shiftEN": "#"
+    },
+    {
+        "code": "Digit4",
+        "charEN": "4",
+        "charRU": "4",
+        "shiftRU": ";",
+        "shiftEN": "$"
+    },
+    {
+        "code": "Digit5",
+        "charEN": "5",
+        "charRU": "5",
+        "shiftRU": "%",
+        "shiftEN": "%"
+    },
+    {
+        "code": "Digit6",
+        "charEN": "6",
+        "charRU": "6",
+        "shiftRU": ":",
+        "shiftEN": "^"
+    },
+    {
+        "code": "Digit7",
+        "charEN": "7",
+        "charRU": "7",
+        "shiftRU": "?",
+        "shiftEN": "&"
+    },
+    {
+        "code": "Digit8",
+        "charEN": "8",
+        "charRU": "8",
+        "shiftRU": "*",
+        "shiftEN": "*"
+    },
+    {
+        "code": "Digit9",
+        "charEN": "9",
+        "charRU": "9",
+        "shiftRU": "(",
+        "shiftEN": "("
+    },
+    {
+        "code": "Digit0",
+        "charEN": "0",
+        "charRU": "0",
+        "shiftRU": ")",
+        "shiftEN": ")"
+    },
+    {
+        "code": "Minus",
+        "charEN": "-",
+        "charRU": "-",
+        "shiftRU": "_",
+        "shiftEN": "_"
+    },
+    {
+        "code": "Equal",
+        "charEN": "=",
+        "charRU": "=",
+        "shiftRU": "+",
+        "shiftEN": "+"
+    },
+    {
+        "code": "<-",
+        "charEN": "<-",
+        "charRU": "<-",
+        "shiftRU": "<-",
+        "shiftEN": "<-"
+    },
+    {
+        "code": "Tab",
+        "charEN": "Tab",
+        "charRU": "Tab",
+        "shiftRU": "Tab",
+        "shiftEN": "Tab"
+    },
+    {
+        "code": "KeyQ",
+        "charEN": "q",
+        "charRU": "й",
+        "shiftRU": "Й",
+        "shiftEN": "Q"
+    },
+    {
+        "code": "KeyW",
+        "charEN": "w",
+        "charRU": "ц",
+        "shiftRU": "W",
+        "shiftEN": "Ц"
+    },
+    {
+        "code": "KeyE",
+        "charEN": "e",
+        "charRU": "у",
+        "shiftRU": "У",
+        "shiftEN": "E"
+    },
+    {
+        "code": "KeyR",
+        "charEN": "r",
+        "charRU": "к",
+        "shiftRU": "К",
+        "shiftEN": "R"
+    },
+    {
+        "code": "KeyT",
+        "charEN": "t",
+        "charRU": "е",
+        "shiftRU": "Е",
+        "shiftEN": "T"
+    },
+    {
+        "code": "KeyY",
+        "charEN": "y",
+        "charRU": "н",
+        "shiftRU": "Н",
+        "shiftEN": "Y"
+    },
+    {
+        "code": "KeyU",
+        "charEN": "u",
+        "charRU": "г",
+        "shiftRU": "Г",
+        "shiftEN": "U"
+    },
+    {
+        "code": "KeyI",
+        "charEN": "i",
+        "charRU": "ш",
+        "shiftRU": "Ш",
+        "shiftEN": "I"
+    },
+    {
+        "code": "KeyO",
+        "charEN": "o",
+        "charRU": "щ",
+        "shiftRU": "O",
+        "shiftEN": "Щ"
+    },
+    {
+        "code": "KeyP",
+        "charEN": "p",
+        "charRU": "з",
+        "shiftRU": "З",
+        "shiftEN": "P"
+    },
+    {
+        "code": "BracketLeft",
+        "charEN": "[",
+        "charRU": "х",
+        "shiftRU": "Х",
+        "shiftEN": "{"
+    },
+    {
+        "code": "BracketRight",
+        "charEN": "]",
+        "charRU": "ъ",
+        "shiftRU": "Ъ",
+        "shiftEN": "}"
+    },
+    {
+        "code": "Delete",
+        "charEN": "Delete",
+        "charRU": "Delete",
+        "shiftRU": "Delete",
+        "shiftEN": "Delete"
+    },
+    {
+        "code": "CapsLock",
+        "charEN": "CapsLock",
+        "charRU": "CapsLock",
+        "shiftRU": "CapsLock",
+        "shiftEN": "CapsLock"
+    },
+    {
+        "code": "KeyA",
+        "charEN": "a",
+        "charRU": "ф",
+        "shiftRU": "Ф",
+        "shiftEN": "A"
+    },
+    {
+        "code": "KeyS",
+        "charEN": "s",
+        "charRU": "ы",
+        "shiftRU": "Ы",
+        "shiftEN": "S"
+    },
+    {
+        "code": "KeyD",
+        "charEN": "d",
+        "charRU": "в",
+        "shiftRU": "В",
+        "shiftEN": "D"
+    },
+    {
+        "code": "KeyF",
+        "charEN": "f",
+        "charRU": "а",
+        "shiftRU": "А",
+        "shiftEN": "F"
+    },
+    {
+        "code": "KeyG",
+        "charEN": "g",
+        "charRU": "п",
+        "shiftRU": "П",
+        "shiftEN": "G"
+    },
+    {
+        "code": "KeyH",
+        "charEN": "h",
+        "charRU": "р",
+        "shiftRU": "Р",
+        "shiftEN": "H"
+    },
+    {
+        "code": "KeyJ",
+        "charEN": "j",
+        "charRU": "о",
+        "shiftRU": "О",
+        "shiftEN": "J"
+    },
+    {
+        "code": "KeyK",
+        "charEN": "k",
+        "charRU": "л",
+        "shiftRU": "Л",
+        "shiftEN": "K"
+    },
+    {
+        "code": "KeyL",
+        "charEN": "l",
+        "charRU": "д",
+        "shiftRU": "Д",
+        "shiftEN": "L"
+    },
+    {
+        "code": "Semicolon",
+        "charEN": ";",
+        "charRU": "ж",
+        "shiftRU": "",
+        "shiftEN": ":"
+    },
+    {
+        "code": "Quote",
+        "charEN": "'",
+        "charRU": "э",
+        "shiftRU": "Э",
+        "shiftEN": "\""
+    },
+    {
+        "code": "Enter",
+        "charEN": "Enter",
+        "charRU": "Enter",
+        "shiftRU": "Enter",
+        "shiftEN": "Enter"
+    },
+    {
+        "code": "ShiftLeft",
+        "charEN": "ShiftLeft",
+        "charRU": "ShiftLeft",
+        "shiftRU": "ShiftLeft",
+        "shiftEN": "ShiftLeft"
+    },
+    {
+        "code": "KeyZ",
+        "charEN": "z",
+        "charRU": "я",
+        "shiftRU": "Я",
+        "shiftEN": "Z"
+    },
+    {
+        "code": "KeyX",
+        "charEN": "x",
+        "charRU": "ч",
+        "shiftRU": "Ч",
+        "shiftEN": "X"
+    },
+    {
+        "code": "KeyC",
+        "charEN": "c",
+        "charRU": "с",
+        "shiftRU": "С",
+        "shiftEN": "C"
+    },
+    {
+        "code": "KeyV",
+        "charEN": "v",
+        "charRU": "м",
+        "shiftRU": "М",
+        "shiftEN": "V"
+    },
+    {
+        "code": "KeyB",
+        "charEN": "b",
+        "charRU": "и",
+        "shiftRU": "И",
+        "shiftEN": "B"
+    },
+    {
+        "code": "KeyN",
+        "charEN": "n",
+        "charRU": "т",
+        "shiftRU": "Т",
+        "shiftEN": "N"
+    },
+    {
+        "code": "KeyM",
+        "charEN": "m",
+        "charRU": "ь",
+        "shiftRU": "Ь",
+        "shiftEN": "M"
+    },
+    {
+        "code": "Comma",
+        "charEN": ",",
+        "charRU": "б",
+        "shiftRU": "Б",
+        "shiftEN": "<"
+    },
+    {
+        "code": "Period",
+        "charEN": ".",
+        "charRU": "ю",
+        "shiftRU": "Ю",
+        "shiftEN": ">"
+    },
+    {
+        "code": "ArrowUp",
+        "charEN": "▲",
+        "charRU": "▲",
+        "shiftRU": "▲",
+        "shiftEN": "▲"
+    },
+    {
+        "code": "ShiftRight",
+        "charEN": "ShiftRight",
+        "charRU": "ShiftRight",
+        "shiftRU": "ShiftRight",
+        "shiftEN": "ShiftRight"
+    },
+    {
+        "code": "ControlLeft",
+        "charEN": "ControlLeft",
+        "charRU": "ControlLeft",
+        "shiftRU": "ControlLeft",
+        "shiftEN": "ControlLeft"
+    },
+    {
+        "code": "MetaLeft",
+        "charEN": "MetaLeft",
+        "charRU": "MetaLeft",
+        "shiftRU": "MetaLeft",
+        "shiftEN": "MetaLeft"
+    },
+    {
+        "code": "AltLeft",
+        "charEN": "AltLeft",
+        "charRU": "AltLeft",
+        "shiftRU": "AltLeft",
+        "shiftEN": "AltLeft"
+    },
+    {
+        "code": "Space",
+        "charEN": "Space",
+        "charRU": "Space",
+        "shiftRU": "Space",
+        "shiftEN": "Space"
+    },
+    {
+        "code": "AltRight",
+        "charEN": "AltRight",
+        "charRU": "AltRight",
+        "shiftRU": "AltRight",
+        "shiftEN": "AltRight"
+    },
+    {
+        "code": "ArrowLeft",
+        "charEN": "ArrowLeft",
+        "charRU": "ArrowLeft",
+        "shiftRU": "ArrowLeft",
+        "shiftEN": "ArrowLeft"
+    },
+    {
+        "code": "ArrowDown",
+        "charEN": "ArrowDown",
+        "charRU": "ArrowDown",
+        "shiftRU": "ArrowDown",
+        "shiftEN": "ArrowDown"
+    },
+    {
+        "code": "ArrowRight",
+        "charEN": "ArrowRight",
+        "charRU": "ArrowRight",
+        "shiftRU": "ArrowRight",
+        "shiftEN": "ArrowRight"
+    },
+    {
+        "code": "ControlRight",
+        "charEN": "ControlRight",
+        "charRU": "ControlRight",
+        "shiftRU": "ControlRight",
+        "shiftEN": "ControlRight"
+    }
+]
