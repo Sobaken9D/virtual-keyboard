@@ -91,11 +91,11 @@
         "shiftEN": "+"
     },
     {
-        "code": "<-",
-        "charEN": "<-",
-        "charRU": "<-",
-        "shiftRU": "<-",
-        "shiftEN": "<-"
+        "code": "Backspace",
+        "charEN": "Backspace",
+        "charRU": "Backspace",
+        "shiftRU": "Backspace",
+        "shiftEN": "Backspace"
     },
     {
         "code": "Tab",
@@ -190,17 +190,17 @@
     },
     {
         "code": "Delete",
-        "charEN": "Delete",
-        "charRU": "Delete",
-        "shiftRU": "Delete",
-        "shiftEN": "Delete"
+        "charEN": "Del",
+        "charRU": "Del",
+        "shiftRU": "Del",
+        "shiftEN": "Del"
     },
     {
         "code": "CapsLock",
-        "charEN": "CapsLock",
-        "charRU": "CapsLock",
-        "shiftRU": "CapsLock",
-        "shiftEN": "CapsLock"
+        "charEN": "Caps",
+        "charRU": "Caps",
+        "shiftRU": "Caps",
+        "shiftEN": "Caps"
     },
     {
         "code": "KeyA",
@@ -288,10 +288,10 @@
     },
     {
         "code": "ShiftLeft",
-        "charEN": "ShiftLeft",
-        "charRU": "ShiftLeft",
-        "shiftRU": "ShiftLeft",
-        "shiftEN": "ShiftLeft"
+        "charEN": "Shift",
+        "charRU": "Shift",
+        "shiftRU": "Shift",
+        "shiftEN": "Shift"
     },
     {
         "code": "KeyZ",
@@ -365,31 +365,31 @@
     },
     {
         "code": "ShiftRight",
-        "charEN": "ShiftRight",
-        "charRU": "ShiftRight",
-        "shiftRU": "ShiftRight",
-        "shiftEN": "ShiftRight"
+        "charEN": "Shift",
+        "charRU": "Shift",
+        "shiftRU": "Shift",
+        "shiftEN": "Shift"
     },
     {
         "code": "ControlLeft",
-        "charEN": "ControlLeft",
-        "charRU": "ControlLeft",
-        "shiftRU": "ControlLeft",
-        "shiftEN": "ControlLeft"
+        "charEN": "Ctrl",
+        "charRU": "Ctrl",
+        "shiftRU": "Ctrl",
+        "shiftEN": "Ctrl"
     },
     {
         "code": "MetaLeft",
-        "charEN": "MetaLeft",
-        "charRU": "MetaLeft",
-        "shiftRU": "MetaLeft",
-        "shiftEN": "MetaLeft"
+        "charEN": "Win",
+        "charRU": "Win",
+        "shiftRU": "Win",
+        "shiftEN": "Win"
     },
     {
         "code": "AltLeft",
-        "charEN": "AltLeft",
-        "charRU": "AltLeft",
-        "shiftRU": "AltLeft",
-        "shiftEN": "AltLeft"
+        "charEN": "Alt",
+        "charRU": "Alt",
+        "shiftRU": "Alt",
+        "shiftEN": "Alt"
     },
     {
         "code": "Space",
@@ -400,37 +400,37 @@
     },
     {
         "code": "AltRight",
-        "charEN": "AltRight",
-        "charRU": "AltRight",
-        "shiftRU": "AltRight",
-        "shiftEN": "AltRight"
+        "charEN": "Alt",
+        "charRU": "Alt",
+        "shiftRU": "Alt",
+        "shiftEN": "Alt"
     },
     {
         "code": "ArrowLeft",
-        "charEN": "ArrowLeft",
-        "charRU": "ArrowLeft",
-        "shiftRU": "ArrowLeft",
-        "shiftEN": "ArrowLeft"
+        "charEN": "◄",
+        "charRU": "◄",
+        "shiftRU": "◄",
+        "shiftEN": "◄"
     },
     {
         "code": "ArrowDown",
-        "charEN": "ArrowDown",
-        "charRU": "ArrowDown",
-        "shiftRU": "ArrowDown",
-        "shiftEN": "ArrowDown"
+        "charEN": "▼",
+        "charRU": "▼",
+        "shiftRU": "▼",
+        "shiftEN": "▼"
     },
     {
         "code": "ArrowRight",
-        "charEN": "ArrowRight",
-        "charRU": "ArrowRight",
-        "shiftRU": "ArrowRight",
-        "shiftEN": "ArrowRight"
+        "charEN": "►",
+        "charRU": "►",
+        "shiftRU": "►",
+        "shiftEN": "►"
     },
     {
         "code": "ControlRight",
-        "charEN": "ControlRight",
-        "charRU": "ControlRight",
-        "shiftRU": "ControlRight",
-        "shiftEN": "ControlRight"
+        "charEN": "Ctrl",
+        "charRU": "Ctrl",
+        "shiftRU": "Ctrl",
+        "shiftEN": "Ctrl"
     }
 ]

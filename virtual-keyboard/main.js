@@ -16,6 +16,12 @@ class InitKeyboard {
     this.header.innerHTML = 'Виртуальная клавиатура';
     this.container.append(this.header);
 
+    // Создадим textarea
+    this.textarea = document.createElement('textarea');
+    this.textarea.placeholder = "Введите текст..."
+    this.textarea.classList.add('text');
+    this.container.append(this.textarea);
+
     //  Создаем keyboard
     this.keyboard = this.createKeyboard();
     this.container.append(this.keyboard);
@@ -25,7 +31,7 @@ class InitKeyboard {
     keyboard.classList.add('keyboard');
     let keysArr = [];
     for (let i = 0; i < this.keys.length; i++) {
-        let button = `<button class = "key">${this.keys[i].charEN}</button>`;
+        let button = `<button class = "key" id = "${this.keys[i].code}"><span>${this.keys[i].charEN}</span></button>`;
         keyboard.insertAdjacentHTML('beforeend', button);
         keysArr.push(button);
     }
