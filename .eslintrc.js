@@ -12,5 +12,11 @@ module.exports = {
   },
   rules: {
     'linebreak-style': 0,
+    'no-else-return': 0,
+    'no-useless-return': 0,
+    'class-methods-use-this': 0,
+    'camelcase': 0,
+    'import/extensions': 0,
+    'no-console': 0,
   },
 };

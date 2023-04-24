@@ -68,7 +68,7 @@ body {
 .key {
   position: relative;
   border: none;
-  color: white;
+  color: rgb(231, 215, 215);
   font-size: 15px;
   font-weight: 700;
   width: 55px;

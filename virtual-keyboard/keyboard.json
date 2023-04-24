@@ -4,91 +4,117 @@
         "charEN": "`",
         "charRU": "ё",
         "shiftRU": "Ё",
-        "shiftEN": "~"
+        "shiftEN": "~",
+        "capsRU": "Ё",
+        "capsEN": "`"
     },
     {
         "code": "Digit1",
         "charEN": "1",
         "charRU": "1",
         "shiftRU": "!",
-        "shiftEN": "!"
+        "shiftEN": "!",
+        "capsRU": "1",
+        "capsEN": "1"
     },
     {
         "code": "Digit2",
         "charEN": "2",
         "charRU": "2",
         "shiftRU": "\"",
-        "shiftEN": "@"
+        "shiftEN": "@",
+        "capsRU": "2",
+        "capsEN": "2"
     },
     {
         "code": "Digit3",
         "charEN": "3",
         "charRU": "3",
         "shiftRU": "№",
-        "shiftEN": "#"
+        "shiftEN": "#",
+        "capsRU": "3",
+        "capsEN": "3"
     },
     {
         "code": "Digit4",
         "charEN": "4",
         "charRU": "4",
         "shiftRU": ";",
-        "shiftEN": "$"
+        "shiftEN": "$",
+        "capsRU": "4",
+        "capsEN": "4"
     },
     {
         "code": "Digit5",
         "charEN": "5",
         "charRU": "5",
         "shiftRU": "%",
-        "shiftEN": "%"
+        "shiftEN": "%",
+        "capsRU": "5",
+        "capsEN": "5"
     },
     {
         "code": "Digit6",
         "charEN": "6",
         "charRU": "6",
         "shiftRU": ":",
-        "shiftEN": "^"
+        "shiftEN": "^",
+        "capsRU": "6",
+        "capsEN": "6"
     },
     {
         "code": "Digit7",
         "charEN": "7",
         "charRU": "7",
         "shiftRU": "?",
-        "shiftEN": "&"
+        "shiftEN": "&",
+        "capsRU": "7",
+        "capsEN": "7"
     },
     {
         "code": "Digit8",
         "charEN": "8",
         "charRU": "8",
         "shiftRU": "*",
-        "shiftEN": "*"
+        "shiftEN": "*",
+        "capsRU": "8",
+        "capsEN": "8"
     },
     {
         "code": "Digit9",
         "charEN": "9",
         "charRU": "9",
         "shiftRU": "(",
-        "shiftEN": "("
+        "shiftEN": "(",
+        "capsRU": "9",
+        "capsEN": "9"
     },
     {
         "code": "Digit0",
         "charEN": "0",
         "charRU": "0",
         "shiftRU": ")",
-        "shiftEN": ")"
+        "shiftEN": ")",
+        "capsRU": "0",
+        "capsEN": "0"
     },
     {
         "code": "Minus",
         "charEN": "-",
         "charRU": "-",
         "shiftRU": "_",
-        "shiftEN": "_"
+        "shiftEN": "_",
+        "capsRU": "-",
+        "capsEN": "-"
     },
     {
         "code": "Equal",
         "charEN": "=",
         "charRU": "=",
         "shiftRU": "+",
-        "shiftEN": "+"
+        "shiftEN": "+",
+        "capsRU": "=",
+        "capsEN": "="
     },
     {
         "code": "Backspace",
@@ -96,7 +122,9 @@
         "charRU": "Backspace",
         "shiftRU": "Backspace",
         "shiftEN": "Backspace",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Backspace",
+        "capsEN": "Backspace"
     },
     {
         "code": "Tab",
@@ -104,91 +132,117 @@
         "charRU": "Tab",
         "shiftRU": "Tab",
         "shiftEN": "Tab",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Tab",
+        "capsEN": "Tab"
     },
     {
         "code": "KeyQ",
         "charEN": "q",
         "charRU": "й",
         "shiftRU": "Й",
-        "shiftEN": "Q"
+        "shiftEN": "Q",
+        "capsRU": "Й",
+        "capsEN": "Q"
     },
     {
         "code": "KeyW",
         "charEN": "w",
         "charRU": "ц",
-        "shiftRU": "W",
-        "shiftEN": "Ц"
+        "shiftRU": "Ц",
+        "shiftEN": "W",
+        "capsRU": "Ц",
+        "capsEN": "W"
     },
     {
         "code": "KeyE",
         "charEN": "e",
         "charRU": "у",
         "shiftRU": "У",
-        "shiftEN": "E"
+        "shiftEN": "E",
+        "capsRU": "У",
+        "capsEN": "E"
     },
     {
         "code": "KeyR",
         "charEN": "r",
         "charRU": "к",
         "shiftRU": "К",
-        "shiftEN": "R"
+        "shiftEN": "R",
+        "capsRU": "К",
+        "capsEN": "R"
     },
     {
         "code": "KeyT",
         "charEN": "t",
         "charRU": "е",
         "shiftRU": "Е",
-        "shiftEN": "T"
+        "shiftEN": "T",
+        "capsRU": "Е",
+        "capsEN": "T"
     },
     {
         "code": "KeyY",
         "charEN": "y",
         "charRU": "н",
         "shiftRU": "Н",
-        "shiftEN": "Y"
+        "shiftEN": "Y",
+        "capsRU": "Н",
+        "capsEN": "Y"
     },
     {
         "code": "KeyU",
         "charEN": "u",
         "charRU": "г",
         "shiftRU": "Г",
-        "shiftEN": "U"
+        "shiftEN": "U",
+        "capsRU": "Г",
+        "capsEN": "U"
     },
     {
         "code": "KeyI",
         "charEN": "i",
         "charRU": "ш",
         "shiftRU": "Ш",
-        "shiftEN": "I"
+        "shiftEN": "I",
+        "capsRU": "Ш",
+        "capsEN": "I"
     },
     {
         "code": "KeyO",
         "charEN": "o",
         "charRU": "щ",
-        "shiftRU": "O",
-        "shiftEN": "Щ"
+        "shiftRU": "Щ",
+        "shiftEN": "O",
+        "capsRU": "Щ",
+        "capsEN": "O"
     },
     {
         "code": "KeyP",
         "charEN": "p",
         "charRU": "з",
         "shiftRU": "З",
-        "shiftEN": "P"
+        "shiftEN": "P",
+        "capsRU": "З",
+        "capsEN": "P"
     },
     {
         "code": "BracketLeft",
         "charEN": "[",
         "charRU": "х",
         "shiftRU": "Х",
-        "shiftEN": "{"
+        "shiftEN": "{",
+        "capsRU": "Х",
+        "capsEN": "["
     },
     {
         "code": "BracketRight",
         "charEN": "]",
         "charRU": "ъ",
         "shiftRU": "Ъ",
-        "shiftEN": "}"
+        "shiftEN": "}",
+        "capsRU": "Ъ",
+        "capsEN": "]"
     },
     {
         "code": "Delete",
@@ -196,7 +250,9 @@
         "charRU": "Del",
         "shiftRU": "Del",
         "shiftEN": "Del",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Del",
+        "capsEN": "Del"
     },
     {
         "code": "CapsLock",
@@ -204,84 +260,108 @@
         "charRU": "Caps",
         "shiftRU": "Caps",
         "shiftEN": "Caps",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Caps",
+        "capsEN": "Caps"
     },
     {
         "code": "KeyA",
         "charEN": "a",
         "charRU": "ф",
         "shiftRU": "Ф",
-        "shiftEN": "A"
+        "shiftEN": "A",
+        "capsRU": "Ф",
+        "capsEN": "A"
     },
     {
         "code": "KeyS",
         "charEN": "s",
         "charRU": "ы",
         "shiftRU": "Ы",
-        "shiftEN": "S"
+        "shiftEN": "S",
+        "capsRU": "Ы",
+        "capsEN": "S"
     },
     {
         "code": "KeyD",
         "charEN": "d",
         "charRU": "в",
         "shiftRU": "В",
-        "shiftEN": "D"
+        "shiftEN": "D",
+        "capsRU": "В",
+        "capsEN": "D"
     },
     {
         "code": "KeyF",
         "charEN": "f",
         "charRU": "а",
         "shiftRU": "А",
-        "shiftEN": "F"
+        "shiftEN": "F",
+        "capsRU": "А",
+        "capsEN": "F"
     },
     {
         "code": "KeyG",
         "charEN": "g",
         "charRU": "п",
         "shiftRU": "П",
-        "shiftEN": "G"
+        "shiftEN": "G",
+        "capsRU": "П",
+        "capsEN": "G"
     },
     {
         "code": "KeyH",
         "charEN": "h",
         "charRU": "р",
         "shiftRU": "Р",
-        "shiftEN": "H"
+        "shiftEN": "H",
+        "capsRU": "Р",
+        "capsEN": "H"
     },
     {
         "code": "KeyJ",
         "charEN": "j",
         "charRU": "о",
         "shiftRU": "О",
-        "shiftEN": "J"
+        "shiftEN": "J",
+        "capsRU": "О",
+        "capsEN": "J"
     },
     {
         "code": "KeyK",
         "charEN": "k",
         "charRU": "л",
         "shiftRU": "Л",
-        "shiftEN": "K"
+        "shiftEN": "K",
+        "capsRU": "Л",
+        "capsEN": "K"
     },
     {
         "code": "KeyL",
         "charEN": "l",
         "charRU": "д",
         "shiftRU": "Д",
-        "shiftEN": "L"
+        "shiftEN": "L",
+        "capstRU": "Д",
+        "capsEN": "L"
     },
     {
         "code": "Semicolon",
         "charEN": ";",
         "charRU": "ж",
-        "shiftRU": "",
-        "shiftEN": ":"
+        "shiftRU": "Ж",
+        "shiftEN": ":",
+        "capsRU": "Ж",
+        "capsEN": ";"
     },
     {
         "code": "Quote",
         "charEN": "'",
         "charRU": "э",
         "shiftRU": "Э",
-        "shiftEN": "\""
+        "shiftEN": "\"",
+        "capsRU": "Э",
+        "capsEN": "'"
     },
     {
         "code": "Enter",
@@ -289,7 +369,9 @@
         "charRU": "Enter",
         "shiftRU": "Enter",
         "shiftEN": "Enter",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Enter",
+        "capsEN": "Enter"
     },
     {
         "code": "ShiftLeft",
@@ -297,77 +379,99 @@
         "charRU": "Shift",
         "shiftRU": "Shift",
         "shiftEN": "Shift",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Shift",
+        "capsEN": "Shift"
     },
     {
         "code": "KeyZ",
         "charEN": "z",
         "charRU": "я",
         "shiftRU": "Я",
-        "shiftEN": "Z"
+        "shiftEN": "Z",
+        "capsRU": "Я",
+        "capsEN": "Z"
     },
     {
         "code": "KeyX",
         "charEN": "x",
         "charRU": "ч",
         "shiftRU": "Ч",
-        "shiftEN": "X"
+        "shiftEN": "X",
+        "capsRU": "Ч",
+        "capsEN": "X"
     },
     {
         "code": "KeyC",
         "charEN": "c",
         "charRU": "с",
         "shiftRU": "С",
-        "shiftEN": "C"
+        "shiftEN": "C",
+        "capsRU": "С",
+        "capsEN": "C"
     },
     {
         "code": "KeyV",
         "charEN": "v",
         "charRU": "м",
         "shiftRU": "М",
-        "shiftEN": "V"
+        "shiftEN": "V",
+        "capsRU": "М",
+        "capsEN": "V"
     },
     {
         "code": "KeyB",
         "charEN": "b",
         "charRU": "и",
         "shiftRU": "И",
-        "shiftEN": "B"
+        "shiftEN": "B",
+        "capsRU": "И",
+        "capsEN": "B"
     },
     {
         "code": "KeyN",
         "charEN": "n",
         "charRU": "т",
         "shiftRU": "Т",
-        "shiftEN": "N"
+        "shiftEN": "N",
+        "capsRU": "Т",
+        "capsEN": "N"
     },
     {
         "code": "KeyM",
         "charEN": "m",
         "charRU": "ь",
         "shiftRU": "Ь",
-        "shiftEN": "M"
+        "shiftEN": "M",
+        "capsRU": "Ь",
+        "capsEN": "M"
     },
     {
         "code": "Comma",
         "charEN": ",",
         "charRU": "б",
         "shiftRU": "Б",
-        "shiftEN": "<"
+        "shiftEN": "<",
+        "capsRU": "Б",
+        "capsEN": ","
     },
     {
         "code": "Period",
         "charEN": ".",
         "charRU": "ю",
         "shiftRU": "Ю",
-        "shiftEN": ">"
+        "shiftEN": ">",
+        "capsRU": "Ю",
+        "capsEN": "."
     },
     {
         "code": "ArrowUp",
         "charEN": "▲",
         "charRU": "▲",
         "shiftRU": "▲",
-        "shiftEN": "▲"
+        "shiftEN": "▲",
+        "capsRU": "▲",
+        "capsEN": "▲"
     },
     {
         "code": "ShiftRight",
@@ -375,7 +479,9 @@
         "charRU": "Shift",
         "shiftRU": "Shift",
         "shiftEN": "Shift",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Shift",
+        "capsEN": "Shift"
     },
     {
         "code": "ControlLeft",
@@ -383,7 +489,9 @@
         "charRU": "Ctrl",
         "shiftRU": "Ctrl",
         "shiftEN": "Ctrl",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Ctrl",
+        "capsEN": "Ctrl"
     },
     {
         "code": "MetaLeft",
@@ -391,7 +499,9 @@
         "charRU": "Win",
         "shiftRU": "Win",
         "shiftEN": "Win",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Win",
+        "capsEN": "Win"
     },
     {
         "code": "AltLeft",
@@ -399,7 +509,9 @@
         "charRU": "Alt",
         "shiftRU": "Alt",
         "shiftEN": "Alt",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Alt",
+        "capsEN": "Alt"
     },
     {
         "code": "Space",
@@ -407,7 +519,9 @@
         "charRU": "Space",
         "shiftRU": "Space",
         "shiftEN": "Space",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Space",
+        "capsEN": "Space"
     },
     {
         "code": "AltRight",
@@ -415,28 +529,36 @@
         "charRU": "Alt",
         "shiftRU": "Alt",
         "shiftEN": "Alt",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Alt",
+        "capsEN": "Alt"
     },
     {
         "code": "ArrowLeft",
         "charEN": "◄",
         "charRU": "◄",
         "shiftRU": "◄",
-        "shiftEN": "◄"
+        "shiftEN": "◄",
+        "capsRU": "◄",
+        "capsEN": "◄"
     },
     {
         "code": "ArrowDown",
         "charEN": "▼",
         "charRU": "▼",
         "shiftRU": "▼",
-        "shiftEN": "▼"
+        "shiftEN": "▼",
+        "capsRU": "▼",
+        "capsEN": "▼"
     },
     {
         "code": "ArrowRight",
         "charEN": "►",
         "charRU": "►",
         "shiftRU": "►",
-        "shiftEN": "►"
+        "shiftEN": "►",
+        "capsRU": "►",
+        "capsEN": "►"
     },
     {
         "code": "ControlRight",
@@ -444,6 +566,8 @@
         "charRU": "Ctrl",
         "shiftRU": "Ctrl",
         "shiftEN": "Ctrl",
-        "func": "true"
+        "func": "true",
+        "capsRU": "Ctrl",
+        "capsEN": "Ctrl"
     }
 ]
