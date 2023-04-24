@@ -95,14 +95,16 @@
         "charEN": "Backspace",
         "charRU": "Backspace",
         "shiftRU": "Backspace",
-        "shiftEN": "Backspace"
+        "shiftEN": "Backspace",
+        "func": "true"
     },
     {
         "code": "Tab",
         "charEN": "Tab",
         "charRU": "Tab",
         "shiftRU": "Tab",
-        "shiftEN": "Tab"
+        "shiftEN": "Tab",
+        "func": "true"
     },
     {
         "code": "KeyQ",
@@ -193,14 +195,16 @@
         "charEN": "Del",
         "charRU": "Del",
         "shiftRU": "Del",
-        "shiftEN": "Del"
+        "shiftEN": "Del",
+        "func": "true"
     },
     {
         "code": "CapsLock",
         "charEN": "Caps",
         "charRU": "Caps",
         "shiftRU": "Caps",
-        "shiftEN": "Caps"
+        "shiftEN": "Caps",
+        "func": "true"
     },
     {
         "code": "KeyA",
@@ -284,14 +288,16 @@
         "charEN": "Enter",
         "charRU": "Enter",
         "shiftRU": "Enter",
-        "shiftEN": "Enter"
+        "shiftEN": "Enter",
+        "func": "true"
     },
     {
         "code": "ShiftLeft",
         "charEN": "Shift",
         "charRU": "Shift",
         "shiftRU": "Shift",
-        "shiftEN": "Shift"
+        "shiftEN": "Shift",
+        "func": "true"
     },
     {
         "code": "KeyZ",
@@ -368,42 +374,48 @@
         "charEN": "Shift",
         "charRU": "Shift",
         "shiftRU": "Shift",
-        "shiftEN": "Shift"
+        "shiftEN": "Shift",
+        "func": "true"
     },
     {
         "code": "ControlLeft",
         "charEN": "Ctrl",
         "charRU": "Ctrl",
         "shiftRU": "Ctrl",
-        "shiftEN": "Ctrl"
+        "shiftEN": "Ctrl",
+        "func": "true"
     },
     {
         "code": "MetaLeft",
         "charEN": "Win",
         "charRU": "Win",
         "shiftRU": "Win",
-        "shiftEN": "Win"
+        "shiftEN": "Win",
+        "func": "true"
     },
     {
         "code": "AltLeft",
         "charEN": "Alt",
         "charRU": "Alt",
         "shiftRU": "Alt",
-        "shiftEN": "Alt"
+        "shiftEN": "Alt",
+        "func": "true"
     },
     {
         "code": "Space",
         "charEN": "Space",
         "charRU": "Space",
         "shiftRU": "Space",
-        "shiftEN": "Space"
+        "shiftEN": "Space",
+        "func": "true"
     },
     {
         "code": "AltRight",
         "charEN": "Alt",
         "charRU": "Alt",
         "shiftRU": "Alt",
-        "shiftEN": "Alt"
+        "shiftEN": "Alt",
+        "func": "true"
     },
     {
         "code": "ArrowLeft",
@@ -431,6 +443,7 @@
         "charEN": "Ctrl",
         "charRU": "Ctrl",
         "shiftRU": "Ctrl",
-        "shiftEN": "Ctrl"
+        "shiftEN": "Ctrl",
+        "func": "true"
     }
 ]
