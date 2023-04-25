@@ -1,9 +1,13 @@
 import keys from '../keyboard.json' assert { type: 'json' };
 export default class InitKeyboard {
   constructor() {
-    this.language = 'en';
-    this.caps = false;
     this.keys = keys;
+    this.language = 'en';
+    this.ctrl = false;
+    this.alt = false;
+    this.caps = false;
+    this.shift = false;
+
     const body = document.querySelector('body');
 
     //  Создаем container
@@ -48,18 +52,38 @@ export default class InitKeyboard {
   checkLayout() {
     let key = '';
     if (this.language === 'en') {
-        if (this.caps) {
-            key = 'capsEN';
-        } else {
-            key = 'charEN';
-        }
-    }else {
-        if (this.caps) {
-            key = 'capsRU';
-        } else {
-            key = 'charRU';
-        }
+      if (this.shift) {
+        key = 'shiftEN';
+      } else if (this.caps) {
+        key = 'capsEN';
+      } else {
+        key = 'charEN';
+      }
+    } else {
+      if (this.shift) {
+        key = 'shiftRU';
+      } else if (this.caps){
+        key = 'capsRU';
+      } else {
+        key = 'charRU';
+      }
     }
     return key;
+  }
+
+  swapLayout() {
+    console.log('------------------------------------------------');
+    console.log(this.ctrl);
+    console.log(this.alt);
+    console.log('------------------------------------------------');
+    if (this.ctrl && this.alt) {
+      if (this.language === 'en') {
+        this.language = 'ru';
+      } else {
+        this.language = 'en';
+      }
+      // Если нужно переключить
+      return true;
+    }
   }
 }
