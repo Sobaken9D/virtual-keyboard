@@ -7,6 +7,7 @@ export default class InitKeyboard {
     this.alt = false;
     this.caps = false;
     this.shift = false;
+    this.firtsInit = true;
 
     const body = document.querySelector('body');
 
