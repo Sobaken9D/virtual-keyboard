@@ -30,6 +30,13 @@ export default class InitKeyboard {
 
     //  Создаем keyboard
     this.createKeyboard();
+
+    //Создаем footer
+    this.header = document.createElement('h3');
+    this.header.classList.add('footer');
+    this.header.innerHTML = `Клавиатура создана в операционной системе Windows</br>
+                             Для переключения языка комбинация: ctrl + alt`;
+    this.container.append(this.header);
   }
 
   createKeyboard() {
